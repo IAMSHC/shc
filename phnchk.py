@@ -1,6 +1,4 @@
-import re
-for test_string in ['joyeta@gmail.com']:
-	if re.match(r'\S{6}@\S{5}.\S{3}', test_string):
-		print test_string,' is a valid email_id'
-	else:
-		print test_string, "rejected"
+Python 2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+print "hello"
